@@ -3,7 +3,6 @@
 #READ ME
 #this is a script to help optimize your file search.
 #simply input your file name and directory(optional, the default will search root
-#depenency fzf.  please be sure to install or remove pipe on line #18
 
 while true; do
     read -r -p "Enter file name: " file_name
